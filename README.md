@@ -1,4 +1,4 @@
-![Header](file:///C:/Users/Casper/Downloads/github-header-image.png)
+![Header](https://raw.githubusercontent.com/tayronuk/tayronuk/refs/heads/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm tayronuk</h1>
 <h3 align="center">Computer Programming Student | Python & Web Development | Based in Turkey</h3>
 
