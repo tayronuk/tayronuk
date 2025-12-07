@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/tayronuk/tayronuk/refs/heads/main/tayronuk_header.png)](https://www.youtube.com/@tayronuk)
 <h1 align="center">Hi 👋, I'm tayronuk</h1>
-<h3 align="center">Computer Programming Student | Python & Web Development | Based in Turkey</h3>
+<h3 align="center">Student | Python & Web Development | Based in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayronuk&label=Profile%20views&color=0e75b6&style=flat" alt="tayronuk" /> </p>
 
